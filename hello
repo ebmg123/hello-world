@@ -11,7 +11,7 @@ x=1
 my_name = "eddie the legend"
 says = "says"
 
-# lists
+# lists and touples
 the__legends__goodwill =[0,1,2,3,4,5]
 
 # tuples
@@ -32,4 +32,9 @@ why = answer
 #hello world code
 print(my_name), print( says), print("hello world"), print(the__legends__goodwill), print(the__number_of_enemies_defeedted["very possible"])
 
-#"after first test"
+# .ssh test 
+# got to "johnelder.com/code/" floow codes blow to push to git  hub
+#git add .
+#git commi -am "type in description here"
+#git push
+
