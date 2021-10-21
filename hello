@@ -1,0 +1,35 @@
+# os library in use
+import os
+
+# clear line of code after you run the code blow
+os.system('clear')
+
+# ariables
+x=1
+
+# strings
+my_name = "eddie the legend"
+says = "says"
+
+# lists
+the__legends__goodwill =[0,1,2,3,4,5]
+
+# tuples
+the__number_of_enemies_defeedted = {
+	"imposible": "zero enemies",
+	"very possible": "power level over 10000"
+}
+answer = "very possible"
+
+age = 26
+
+why = answer
+
+
+#boolean, uses if staements, else statements etc
+
+
+#hello world code
+print(my_name), print( says), print("hello world"), print(the__legends__goodwill), print(the__number_of_enemies_defeedted["very possible"])
+
+#"after first test"
