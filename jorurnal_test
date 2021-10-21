@@ -1,0 +1,14 @@
+#date: 21/10/2021
+#summary:
+#1: print("what you want to print")
+#2: import os  from python libabry, os-Miscellaneous operating system interfaces
+#3: os.system (("clear")), the information after the code is run
+#4:the__legends__goodwill =[0,1,2,3,4,5], lists are layed out like this
+#5:the__legends__goodwill =(0,1,2,3,4,5), similarily touples are laid out like this, toupleare very slightly quicker
+#6:the__number_of_enemies_defeedted = {"imposible": "zero enemies", "very possible": "power level over 10000"} libaries are like above  ways to record and list data for example imposible is linked to zero enemies.
+#7:# .ssh test, using git hub to save your progress online 
+#8:got to "johnelder.com/code/"follow codes blow to push to git  hub
+#9:git add .
+#10:git commi -am "type in description here"
+#11:git push
+
